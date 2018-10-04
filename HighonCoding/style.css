@@ -1,0 +1,174 @@
+/********************************** Index Page *************************************/
+
+.highoncoding{
+    background-color: #52A7FA;
+    padding: 2%;
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 2.2%;
+    display: flex;
+    align-items: center;
+}
+
+.word1{
+    font-size: 300%;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+.word2{
+    font-size: 180%;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-left: 6%;
+}
+
+.word3{
+    font-size: 180%;
+    font-family: sans-serif;
+    font-weight: 100;
+    color: white;
+    margin-left: 6%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+.curse-title{
+    font-weight: bold;
+    color: #54585F;
+    font-family: sans-serif;
+    font-size: 260%;
+    padding-bottom: 2.5%;
+    padding-top: 1%;
+}
+
+.curse{
+    font-size: 120%;
+    font-weight:00;
+    font-family: sans-serif;
+    background-color: #DDDEDF;
+    padding:2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+    
+.art-title1{
+    color: #52A7FA;
+    font-size: 150%;
+    margin-top: 2%;
+    margin-left: 5.5%;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+.art-title2{
+    color: #52A7FA;
+    font-size: 150%;
+    margin-top: 2%;
+    margin-left: 5.5%;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+.art1{
+    margin-left: 5.5%;
+    margin-right: 5.5%;
+    margin-bottom: -1.1%;
+    font-size: 129%;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.art2{
+    margin-left: 5.5%;
+    margin-right: 5.5%;
+    margin-bottom: -1.1%;
+    font-size: 129%;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.comment1{
+    padding: .3%;
+    background-color: #F09033;
+    color: white;
+    margin-left: 5.5%;
+    margin-right: 5.5%;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.comment2{
+    padding: .3%;
+    background-color: #F09033;
+    color: white;
+    margin-left: 5.5%;
+    margin-right: 5.5%;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+
+
+/********************************** Categories Page*************************************/
+
+
+
+.lang{
+    font-size: 325%;
+    font-family: sans-serif;
+    font-weight: 100;
+    margin-top: 40%;
+}
+
+.num_art {
+    color: gray; 
+    font-family: sans-serif;
+    font-size: 175%;
+    font-weight: 100;
+    margin-top: 25%
+}
+
+.box1 {
+    background-color: #DDDEDF;
+    display: inline-block;
+    width: 310px;
+    height: 310px;
+    margin: 2%;
+}
+
+.box2 {
+    background-color: #DDDEDF;
+    display: inline-block;
+    width: 310px;
+    height: 310px;
+    margin: 2%;
+}
+
+.box3 {
+    background-color: #DDDEDF;
+    display: inline-block;
+    width: 310px;
+    height: 310px;
+    margin: 2%;
+}
+
+.div1 {
+    display: block;
+}
+
+
+.div2 {
+    display: block;
+}
+
+
+    
